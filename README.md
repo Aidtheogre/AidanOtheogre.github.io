@@ -15,7 +15,7 @@
 
 [about me]: https://aidtheogre.github.io/aboutme.github.io/
 
-[personal heroes]: www.github.com  
+[personal heroes]: https://aidtheogre.github.io/heroes.github.io/
 
 [favorite activities]: www.github.com  
 
