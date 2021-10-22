@@ -10,7 +10,6 @@
 
 ### For a block of code I wrote click [here][code block]
 
-### For my favorite websites click [here][favorite websites]
 
 
 [about me]: https://aidtheogre.github.io/aboutme.github.io/
