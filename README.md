@@ -17,8 +17,8 @@
 
 [personal heroes]: https://aidtheogre.github.io/heroes.github.io/
 
-[favorite activities]: www.github.com  
+[favorite activities]: https://aidtheogre.github.io/favoriteactivities.github.io/
 
 [code block]: www.github.com  
 
-[favorite websites]: www.github.com  
+
