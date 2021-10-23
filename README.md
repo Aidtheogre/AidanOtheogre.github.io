@@ -2,7 +2,7 @@
 
 ## Links :
 
-### For about me click [here][about me].
+### For about me click [here][about me]
 
 ### For my personal heroes click [here][personal heroes]
 
@@ -18,6 +18,6 @@
 
 [favorite activities]: https://aidtheogre.github.io/favoriteactivities.github.io/
 
-[code block]: www.github.com  
+[code block]: https://aidtheogre.github.io/Blockofcode.github.io/
 
 
